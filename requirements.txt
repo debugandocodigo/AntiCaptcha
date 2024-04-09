@@ -1,0 +1,7 @@
+anticaptchaofficial==1.0.59
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.6
+py==1.11.0
+requests==2.31.0
+urllib3==2.2.1
